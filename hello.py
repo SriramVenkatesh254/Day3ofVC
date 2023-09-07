@@ -1,3 +1,3 @@
 firstNumber = 30
-secondNumber = 20
+secondNumber = 30
 print(firstNumber + secondNumber)
